@@ -1,0 +1,34 @@
+.product {
+    border: 1px solid #ccc;
+    padding: 15px 25px;
+    width: 250px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    margin-left: 14px;
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.products {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.basketCard {
+    background: lightblue;
+}
